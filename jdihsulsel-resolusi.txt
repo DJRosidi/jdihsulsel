@@ -1,3 +1,4 @@
 JDIHSULSEL-Resolusi
 - menjadi website simpel yang dapat dikelola staf non-IT sekalipun.
 - menjadi single source of peraturan tingkat provinsi di Sulawesi Selatan;
+- menambahkan fitur dan inovasi yang diperlukan Pemerintah Daerah dan Masyarakat
