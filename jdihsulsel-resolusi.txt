@@ -1,0 +1,3 @@
+JDIHSULSEL-Resolusi
+- menjadi website simpel yang dapat dikelola staf non-IT sekalipun.
+- menjadi single source of peraturan tingkat provinsi di Sulawesi Selatan;
